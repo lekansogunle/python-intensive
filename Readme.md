@@ -33,6 +33,11 @@
 - Build python/flask server
 - Make server communicate with GitHub api
 - push project to GitHub
+
+### Week 3, Weekend (Sat / Sun ) - Visit to Cottbus - 26th May, 2019
+
+- Get feedback on past weeks 1, 2 and 3
+- Visit to Cottbus to reinforce learnings and introduce Pandas
 - Introduction to Jupyter!
 
 ### Week 4
