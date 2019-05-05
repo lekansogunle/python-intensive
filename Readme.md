@@ -33,12 +33,22 @@
 - Build python/flask server
 - Make server communicate with GitHub api
 - push project to GitHub
+- Introduction to Jupyter!
 
 ### Week 4
 
 #### Build Python/pandas project
 
 - Explain pandas and project task (call)
+- Follow up with tutorials
+- 3 hrs or more per day
+- post questions or blockers on slack for help
+- update team on progress daily
+- refer to Pandas documentation
+
+### Week 4, weekend (Sun) - Call Session
+
+ - Farewell and feedback session
 
 #### [Join Slack Channel](https://python-intensive.slack.com)
 
