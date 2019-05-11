@@ -14,11 +14,38 @@
 
 ### Week 2
 
-#### Exercism , https://exercism.io/tracks/python
+#### Hackerrank , https://www.hackerrank.com/domains/python
 
-- Explain concept and help with set-up (call)
-- Install package
-- First 14 exercises, about two a day for 7 days
+-  Day 1 - 4 exercises (Introduction and Basic data types)
+    *  Arithmetic Operators
+    *  Loops
+    *  List Comprehension
+    *  Finding the percentage
+-  Day 2 -  4 exercises (string, sets, Math)
+    *  String Split and Join
+    *  The Minion Game
+    *  Introduction to sets
+    *  Polar Coordinates
+-  Day 3 -  4 exercises (Collections, Date and Time)
+    *  collections.Counter
+    *  DefaultDict Tutorial
+    *  Calendar Module
+    *  Exceptions
+-  Day 4 - 4 exercises (Classes, Built-ins, RegExp)
+    *  Dealing with complex numbers
+    *  Any or All
+    *  Validating phone numbers
+    *  Validating and parsing email addresses 
+-  Day 5 - 8 exercises (Numpy)
+    *  Arrays
+    *  Transpose and Flatten
+    *  Array Mathematics
+    *  Floor, Ceil and Rent
+    *  Min, Max
+    *  Mean, Var, and Std
+    *  Polynomials
+    *  Linear Algebra
+
 
 ### Week 2, weekend(sat and sun)
 
