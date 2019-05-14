@@ -23,7 +23,7 @@
     *  Finding the percentage
 -  Day 2 -  4 exercises (string, sets, Math)
     *  String Split and Join
-    *  The Minion Game
+    *  Python If-Else
     *  Introduction to sets
     *  Polar Coordinates
 -  Day 3 -  4 exercises (Collections, Date and Time)
